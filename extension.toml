@@ -1,0 +1,7 @@
+id = "borland-theme"
+name = "Borland"
+version = "0.1.0"
+schema_version = 1
+authors = ["Renaud Denis <mail@renauddenis.com>"]
+description = "The blue editor of Turbo C, Turbo Pascal and Borland C++, for every language."
+repository = "https://github.com/RenaudDenis/borland-zed"
